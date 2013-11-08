@@ -19,7 +19,9 @@
 
 # Live Wallpapers
 PRODUCT_PACKAGES += \
-        LiveWallpapersPicker
+        LiveWallpapers \
+        LiveWallpapersPicker \
+        VisualizationWallpapers
 
 
 # Get the long list of APNs
