@@ -4,7 +4,7 @@ TARGET_SCREEN_WIDTH := 720
 
 PRODUCT_RELEASE_NAME := mako
 
-$(call inherit-product, device/asus/flo/full_flo.mk)
+$(call inherit-product, device/lge/mako/full_mako.mk)
 
 $(call inherit-product, vendor/illusion/config/common.mk)
 
