@@ -19,8 +19,8 @@
 
 # Live Wallpapers
 PRODUCT_PACKAGES += \
-        LiveWallpapersPicker
-
+        LiveWallpapersPicker \
+        LiveWallpapers
 
 # Get the long list of APNs
 PRODUCT_COPY_FILES := device/lge/mako/apns-full-conf.xml:system/etc/apns-conf.xml
